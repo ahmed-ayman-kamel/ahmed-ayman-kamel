@@ -10,28 +10,36 @@
 
 **[Contact Center SLA Automation](https://github.com/ahmed-ayman-kamel/contact-center-sla-automation)**: scheduled Apps Script jobs behind an SLA dashboard: a telephony API sync with resumable backfill and upserts, report-email imports from Gmail, a schedule transformer, and Looker Studio dashboards.
 
-### Other work
+### Leadership and transformation
 
-- **AI & Business Transformation**: an executive presentation for the CEO and senior leadership, built as an interactive Apps Script web app with art-directed visuals, animation and a strong focus on UI/UX.
-- **Monthly performance presentation**: replaced a manual Excel-to-PowerPoint report with a reusable, data-driven full-screen web presentation fed by Google Sheets, refreshed with one button.
+- **AI & Business Transformation**: I lead the annual budget for AI and business transformation, and plan and deliver AI software solutions that automate operational work. I presented the transformation programme to the CEO and senior leadership.
+- **Performance management**: I run quartile performance audits and executive performance reviews, backed by automated, data-driven reporting.
 
 ### Languages and tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>
+  <img src="assets/icons/python.svg" alt="Python" title="Python" width="44" height="44"/>
+  <img src="assets/icons/pandas.svg" alt="pandas" title="pandas" width="44" height="44"/>
+  <img src="assets/icons/numpy.svg" alt="NumPy" title="NumPy" width="44" height="44"/>
+  <img src="assets/icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="44" height="44"/>
+  <img src="assets/icons/sql-server.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="44" height="44"/>
+  <img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="44" height="44"/>
+  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44"/>
+  <img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44"/>
+  <img src="assets/icons/google-apps-script.svg" alt="Google Apps Script" title="Google Apps Script" width="44" height="44"/>
+  <img src="assets/icons/google-sheets.svg" alt="Google Sheets" title="Google Sheets" width="44" height="44"/>
+  <img src="assets/icons/looker-studio.svg" alt="Looker Studio" title="Looker Studio" width="44" height="44"/>
+  <img src="assets/icons/git.svg" alt="Git" title="Git" width="44" height="44"/>
+  <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="44" height="44"/>
+  <img src="assets/icons/html5.svg" alt="HTML5" title="HTML5" width="44" height="44"/>
+  <img src="assets/icons/css3.svg" alt="CSS3" title="CSS3" width="44" height="44"/>
 </p>
 
 - **Languages:** Python, SQL, JavaScript, HTML, CSS
-- **Python libraries:** pandas, NumPy, Matplotlib, openpyxl, Requests
-- **Google Workspace:** Apps Script (web apps, triggers, `UrlFetchApp` integrations), Sheets (`ARRAYFORMULA`, `XLOOKUP`, `IMPORTRANGE`), Drive, Gmail and Sheets APIs, Looker Studio
+- **Python:** pandas, NumPy, Matplotlib, openpyxl, Requests
 - **Databases:** SQL Server, MySQL, PostgreSQL
-- **Integrations:** REST APIs, OpenAI, Anthropic and Gemini APIs, Chrome extensions (Manifest V3)
+- **Google ecosystem:** Apps Script (web apps, triggers, API integrations), Google Sheets, Drive and Gmail APIs, Looker Studio
+- **AI and integrations:** OpenAI, Anthropic and Gemini APIs, REST APIs, Chrome extensions (Manifest V3)
 - **Ways of working:** AI-assisted development, Git and GitHub
 
 ### Currently learning
