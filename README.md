@@ -1,19 +1,21 @@
-## Hi, I'm Ahmed Ayman
+## Ahmed Ayman
 
-**RTM Specialist, Planning & Control** at Future Group. I work in workforce management for contact-center operations, and I build the tools my team runs on: shift-handover and ticketing apps, automated reporting pipelines, live KPI dashboards and executive presentations, mostly on **Google Apps Script, Google Sheets and JavaScript**.
+**AI & Business Transformation · Future Group**<br>
+Planning & Control Management · Contact Center Operations
 
-### Featured projects
+I lead AI and business transformation for contact-center operations: turning manual, repetitive daily work into reliable software solutions, and tying every solution to the business KPIs the operation is measured on.
 
-**[WFM Operations App](https://github.com/ahmed-ayman-kamel/wfm-operations-app)**: a web app for a real-time-management team. Shift handovers with a locked shift close, operational tickets, an AI assistant with multi-provider fallback, automated vendor-report pipelines and three KPI dashboards. Two Apps Script projects with Google ID-token authentication and role checks on every call, plus a Chrome extension that runs WFM reports in the user's own session.
+### What I lead
 
-<a href="https://github.com/ahmed-ayman-kamel/wfm-operations-app"><img src="https://raw.githubusercontent.com/ahmed-ayman-kamel/wfm-operations-app/main/docs/images/dashboard/dashboard-voyce-overview.png" width="760" alt="WFM Operations App: Voyce Performance dashboard (synthetic data)"></a>
+- **AI & business transformation**: I own the annual transformation budget and plan, and I present the programme and its results to the CEO and senior leadership.
+- **Operational automation**: I reduce manual daily work across operations by designing and delivering software solutions, from automated reporting and data pipelines to internal operations platforms.
+- **Ecosystem-based delivery**: I build on the Google ecosystem and modern AI services, so solutions fit how teams already work and scale across the operation.
+- **Performance and KPIs**: I run quartile performance audits and executive performance reviews, and I track progress toward long-term business targets.
 
-**[Contact Center SLA Automation](https://github.com/ahmed-ayman-kamel/contact-center-sla-automation)**: scheduled Apps Script jobs behind an SLA dashboard: a telephony API sync with resumable backfill and upserts, report-email imports from Gmail, a schedule transformer, and Looker Studio dashboards.
+### Featured work
 
-### Leadership and transformation
-
-- **AI & Business Transformation**: I lead the annual budget for AI and business transformation, and plan and deliver AI software solutions that automate operational work. I presented the transformation programme to the CEO and senior leadership.
-- **Performance management**: I run quartile performance audits and executive performance reviews, backed by automated, data-driven reporting.
+- **[WFM Operations App](https://github.com/ahmed-ayman-kamel/wfm-operations-app)**: an operations platform that brings shift handovers, operational ticketing, automated vendor reporting, live KPI dashboards and an AI assistant into one secure, role-based web application.
+- **[Contact Center SLA Automation](https://github.com/ahmed-ayman-kamel/contact-center-sla-automation)**: automated data pipelines from telephony, chat and helpdesk systems that keep SLA and back-office dashboards current throughout the day.
 
 ### Languages and tools
 
@@ -38,9 +40,8 @@
 - **Languages:** Python, SQL, JavaScript, HTML, CSS
 - **Python:** pandas, NumPy, Matplotlib, openpyxl, Requests
 - **Databases:** SQL Server, MySQL, PostgreSQL
-- **Google ecosystem:** Apps Script (web apps, triggers, API integrations), Google Sheets, Drive and Gmail APIs, Looker Studio
-- **AI and integrations:** OpenAI, Anthropic and Gemini APIs, REST APIs, Chrome extensions (Manifest V3)
-- **Ways of working:** AI-assisted development, Git and GitHub
+- **Google ecosystem:** Apps Script, Google Sheets, Drive and Gmail APIs, Looker Studio
+- **AI and integrations:** OpenAI, Anthropic and Gemini APIs, REST APIs, browser extensions
 
 ### Currently learning
 
