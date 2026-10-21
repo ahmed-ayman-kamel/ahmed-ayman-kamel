@@ -57,3 +57,7 @@ I lead AI and business transformation for contact-center operations: turning man
 
 - AI engineering: building and evaluating LLM applications
 - Machine learning fundamentals
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-ayman-0o0/)
